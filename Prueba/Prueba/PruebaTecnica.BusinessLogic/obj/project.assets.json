@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PruebaTecnica.BusinessLogic.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PruebaTecnica.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PruebaTecnica.BusinessLogic.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebaTecnica.BusinessLogic.Interface.dll": {}
+        }
+      },
+      "PruebaTecnica.DataAccess.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PruebaTecnica.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PruebaTecnica.DataAccess.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebaTecnica.DataAccess.Interface.dll": {}
+        }
+      },
+      "PruebaTecnica.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PruebaTecnica.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebaTecnica.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnica.BusinessLogic.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PruebaTecnica.BusinessLogic.Interface/PruebaTecnica.BusinessLogic.Interface.csproj",
+      "msbuildProject": "../PruebaTecnica.BusinessLogic.Interface/PruebaTecnica.BusinessLogic.Interface.csproj"
+    },
+    "PruebaTecnica.DataAccess.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PruebaTecnica.DataAccess.Interface/PruebaTecnica.DataAccess.Interface.csproj",
+      "msbuildProject": "../PruebaTecnica.DataAccess.Interface/PruebaTecnica.DataAccess.Interface.csproj"
+    },
+    "PruebaTecnica.Model/1.0.0": {
+      "type": "project",
+      "path": "../PruebaTecnica.Model/PruebaTecnica.Model.csproj",
+      "msbuildProject": "../PruebaTecnica.Model/PruebaTecnica.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PruebaTecnica.BusinessLogic.Interface >= 1.0.0",
+      "PruebaTecnica.DataAccess.Interface >= 1.0.0",
+      "PruebaTecnica.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User-Ga\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj",
+      "projectName": "PruebaTecnica.BusinessLogic",
+      "projectPath": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\User-Ga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User-Ga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj": {
+              "projectPath": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj"
+            },
+            "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj": {
+              "projectPath": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj"
+            },
+            "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj": {
+              "projectPath": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

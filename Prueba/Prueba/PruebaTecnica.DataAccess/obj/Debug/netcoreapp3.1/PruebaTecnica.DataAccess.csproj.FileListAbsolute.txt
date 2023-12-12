@@ -1,0 +1,15 @@
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.deps.json
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.AssemblyInfo.cs
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.csproj.CopyComplete
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.DataAccess\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.pdb

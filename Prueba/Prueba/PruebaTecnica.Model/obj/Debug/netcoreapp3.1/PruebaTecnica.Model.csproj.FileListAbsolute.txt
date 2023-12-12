@@ -1,0 +1,9 @@
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.deps.json
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.AssemblyInfoInputs.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.AssemblyInfo.cs
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.csproj.CoreCompileInputs.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb

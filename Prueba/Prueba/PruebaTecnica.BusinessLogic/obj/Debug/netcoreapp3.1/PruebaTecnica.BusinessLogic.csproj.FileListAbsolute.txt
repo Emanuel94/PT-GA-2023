@@ -1,0 +1,17 @@
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.deps.json
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.Interface.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.Interface.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.AssemblyInfo.cs
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.csproj.CopyComplete
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.dll
+C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.pdb
