@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRkpGjCIF1BAP2J7rD5Izqu+7Y+QoIqCmig1Yy/sMjIW91H+uigLroyZre2EHsN/te2OXjh0XBuD2XXEkTcGhg==",
+  "dgSpecHash": "0z1onMbIudzkJbs/CMkh5mnHwM9tYmYJgnIy4EXYhDHQBvsM4t/Xl6V5BSK7P8EkSs2ADVU+qoqg7+68lcnYog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User-Ga\\Documents\\Proyectos Emanuel Esquivel\\Prueba técnica GA 2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User-Ga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\User-Ga\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\User-Ga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
