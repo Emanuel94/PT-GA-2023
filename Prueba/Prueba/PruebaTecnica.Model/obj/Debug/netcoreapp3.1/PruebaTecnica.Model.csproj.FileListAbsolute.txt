@@ -7,3 +7,13 @@ C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Pr
 C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.csproj.CoreCompileInputs.cache
 C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
 C:\Users\User-Ga\Documents\Proyectos Emanuel Esquivel\Prueba técnica GA 2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Pruebas tecnicas GA\PT-GA-2023\Prueba\Prueba\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb

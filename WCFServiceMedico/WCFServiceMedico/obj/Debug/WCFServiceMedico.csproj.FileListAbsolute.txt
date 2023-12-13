@@ -1,0 +1,24 @@
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\WCFServiceMedico.dll.config
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\WCFServiceMedico.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\WCFServiceMedico.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.SqlServer.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.xml
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.SqlServer.xml
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\ASP .Net\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\WCFServiceMedico.dll.config
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\WCFServiceMedico.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\WCFServiceMedico.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.SqlServer.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.xml
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\bin\EntityFramework.SqlServer.xml
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\.Net\wcfServiceRepo\WCFServiceMedico\WCFServiceMedico\obj\Debug\WCFServiceMedico.csproj.CopyComplete

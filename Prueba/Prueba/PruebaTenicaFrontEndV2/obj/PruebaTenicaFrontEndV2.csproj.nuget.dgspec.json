@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTenicaFrontEndV2\\PruebaTenicaFrontEndV2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj",
+        "projectName": "PruebaTecnica.BusinessLogic.Interface",
+        "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj",
+        "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj": {
+                "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj",
+        "projectName": "PruebaTecnica.BusinessLogic",
+        "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj": {
+                "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic.Interface\\PruebaTecnica.BusinessLogic.Interface.csproj"
+              },
+              "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj"
+              },
+              "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj": {
+                "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj",
+        "projectName": "PruebaTecnica.DataAccess.Interface",
+        "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\PruebaTecnica.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.DataAccess.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj": {
+                "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj",
+        "projectName": "PruebaTecnica.Model",
+        "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\PruebaTecnica.Model.csproj",
+        "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTenicaFrontEndV2\\PruebaTenicaFrontEndV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTenicaFrontEndV2\\PruebaTenicaFrontEndV2.csproj",
+        "projectName": "PruebaTenicaFrontEndV2",
+        "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTenicaFrontEndV2\\PruebaTenicaFrontEndV2.csproj",
+        "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTenicaFrontEndV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Emanuel\\Documents\\Proyectos Emanuel Esquivel\\Pruebas tecnicas GA\\PT-GA-2023\\Prueba\\Prueba\\PruebaTecnica.BusinessLogic\\PruebaTecnica.BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.7.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.7.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.7.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.7.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
